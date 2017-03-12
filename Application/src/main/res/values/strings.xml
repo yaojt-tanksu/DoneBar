@@ -1,0 +1,13 @@
+<resources>
+    <string name="done">确定</string>
+    <string name="cancel">取消</string>
+    <string name="donebaractivity_title">确定+取消按钮</string>
+    <string name="donebaractivity_description">确定按钮+取消按钮desc</string>
+    <string name="donebuttonactivity_title">确定按钮</string>
+    <string name="donebuttonactivity_description">确定按钮desc</string>
+    <string name="donebuttonactivity_title2">刷新</string>
+    <string name="refreshDesc">刷新desc</string>
+    <string name="message">这是一个编辑用户信息等场景，然后顶部有保存和取消的按钮样式例子！</string>
+    <string name="refreshTitle">刷新</string>
+    <string name="startRefresh">开始刷新</string>
+</resources>
