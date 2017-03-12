@@ -25,9 +25,6 @@ ViewGroup.LayoutParams.MATCH_PARENT,ViewGroup.LayoutParams.MATCH_PARENT))` on th
 5. You can now set the content view of the Activity.
 
 
-[1]: http://developer.android.com/design/patterns/actionbar.html
-[2]: http://developer.android.com/reference/android/app/ActionBar.html
-
 Pre-requisites
 --------------
 
@@ -38,8 +35,8 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-done-bar.png" height="400" alt="Screenshot"/> <img src="screenshots/3-done-button.png" height="400" alt="Screenshot"/> 
-
+<img src="screenshots/Screenshot_1489289602.png" height="400" alt="Screenshot"/> <img src="screenshots/Screenshot_1489289608.png" height="400" alt="Screenshot"/> <img src="screenshots/Screenshot_1489289613.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot_1489289617.png" height="400" alt="Screenshot"/>
 Getting Started
 ---------------
 
@@ -58,22 +55,3 @@ https://github.com/googlesamples/android-DoneBar
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
-License
--------
-
-Copyright 2016 The Android Open Source Project, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
